@@ -2,7 +2,6 @@ import java.util.HashMap;
 
 public class HashmapDemo {
     public static void main(String[] args){
-        // Crear HashMap
         HashMap diccionario = new HashMap<>(); // Usa clave valor
         diccionario.put("A001", "011-2318-661177");
         diccionario.put("A002", "123-1672-142278");
